@@ -1,2 +1,2 @@
 # BimCalculator
-It measure weight height and also show your are healthy or not
+It measure weight,height and also show you are healthy or not
